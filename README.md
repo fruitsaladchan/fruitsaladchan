@@ -4,7 +4,6 @@
 - twitch - https://www.twitch.tv/fruitsaladchan
 - music i like ^-^ - https://soundcloud.com/you/likes
 - https://open.spotify.com/user/4ele3jbmxc580xz0w63fy3ypg?si=f25df390ca984944&nd=1
-- 
 <!--
 **fruitsaladchan/fruitsaladchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
