@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- discord - fruit salad#7464
+- steam - https://steamcommunity.com/profiles/76561198983419915/
 <!--
 **fruitsaladchan/fruitsaladchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
