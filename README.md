@@ -6,5 +6,4 @@
 <!--
 **fruitsaladchan/fruitsaladchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-![rei running in minecraft](https://user-images.githubusercontent.com/124645742/226750328-c15b6401-5322-49ea-931c-9be943075bf9.jpg)
+![rei running in minecraft](https://github.com/fruitsaladchan/fruitsaladchan/assets/124645742/e1e758e5-611d-4435-967c-a60ac33bc1fc)
