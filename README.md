@@ -1,4 +1,4 @@
-Arch linux + hyprland user 
+gentoo + dwm user 
 
 - discord - fruitsalad7464
 - steam - https://steamcommunity.com/profiles/76561198983419915/
