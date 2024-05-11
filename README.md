@@ -1,7 +1,5 @@
 17
 
-arch user
-
 - discord - fruitsalad7464
 - steam - https://steamcommunity.com/profiles/76561198983419915/
 - twitch - https://www.twitch.tv/fruitsaladchan
