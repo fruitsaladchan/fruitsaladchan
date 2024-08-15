@@ -1,6 +1,3 @@
-- 17
-- touhou enjoyer
-- stupid
 
 - discord - fruitsalad7464
 - steam - https://steamcommunity.com/profiles/76561198983419915/
