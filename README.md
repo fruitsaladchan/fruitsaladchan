@@ -2,8 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fruitsaladchan=anuraghazra&hide_progress=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruitsaladchan_progress=true)
 broke | 17
 
 # links
