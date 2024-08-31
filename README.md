@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruitsaladchan&show_icons=true&theme=dark)
+
 
 # links
 
