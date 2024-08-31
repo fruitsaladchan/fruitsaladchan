@@ -1,6 +1,8 @@
+# hi
+
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
-
+broke college student | 18
 
 # links
 
