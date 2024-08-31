@@ -1,5 +1,8 @@
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetrax-10&theme=dracula&exclude_repo=github-readme-stats,collections-test&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # links
 
 [<img  width="40px" src="assets/soundcloud.png" />](https://soundcloud.com/fruit-salad-162533379/likes)
