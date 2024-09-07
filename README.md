@@ -8,6 +8,8 @@
 
 - running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
+- currently reading Kagurabachi
+
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
 
