@@ -1,14 +1,14 @@
 # hi
 
-- i play touhou and post stuff here sometimes
+- I play touhou and post stuff here sometimes
 
-- tryna get my CCNA rn
+- Tryna get my CCNA rn
 
-- mostly know python, bash, powershell, docker & other networking stuff. 
+- Mostly know python, bash, powershell, docker & other networking stuff. 
 
-- running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
+- Running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
-- currently reading Kagurabachi
+- Currently reading Kagurabachi
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
