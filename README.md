@@ -6,7 +6,7 @@
 
 - mostly know python, bash, powershell, docker & other networking stuff
 
-- running arch on laptop, windows 10ltsc on main pc, bsd + debian + arch on servers
+- running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
