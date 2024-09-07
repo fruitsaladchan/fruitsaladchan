@@ -1,6 +1,8 @@
 # hi
 
-i play touhou and post stuff here sometimes
+- i play touhou and post stuff here sometimes
+
+- tryna get my CCNA rn
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
