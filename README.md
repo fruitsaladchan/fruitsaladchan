@@ -4,7 +4,7 @@
 
 - Tryna get my CCNA rn
 
-- Mostly know python, bash, powershell, docker & other networking stuff. 
+- Mostly know python, bash, powershell, docker & some other stuff. 
 
 - Running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
