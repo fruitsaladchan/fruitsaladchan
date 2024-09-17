@@ -10,7 +10,7 @@
 
 - Currently reading Kagurabachi
 
-![19448](https://github.com/user-attachments/assets/9403a3f8-e582-4875-94ae-24a5173a5da2)
+![9870149](https://github.com/user-attachments/assets/9073d8af-3a8e-4db8-a140-b5429d77c01e)
 
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
