@@ -2,7 +2,7 @@
 
 - I play touhou and post stuff here sometimes
 
-- Tryna get my CCNA rn
+- Studying for my CCNA rn
 
 - Mostly know python, bash, powershell, docker & some other stuff. 
 
