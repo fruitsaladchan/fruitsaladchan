@@ -4,8 +4,6 @@
 
 - Studying for my CCNA rn
 
-- Mostly know python, bash, powershell, docker & some other stuff. 
-
 - Running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
 - Currently reading Kagurabachi
