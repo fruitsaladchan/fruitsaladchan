@@ -8,7 +8,7 @@
 
 - Currently reading Kagurabachi
 
-- Stuff i know:
+- Mostly know python, bash, powershell, docker & some other stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
