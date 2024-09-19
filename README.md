@@ -10,6 +10,7 @@
 
 - Currently reading Kagurabachi
 
+-Stuff i know:
 
 [![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
