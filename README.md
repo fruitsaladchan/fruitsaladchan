@@ -4,7 +4,7 @@
 
 - Studying for my CCNA rn
 
-- Running Arch on laptop, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
+- Running Arch + Hyprland on laptop, Arch + dwm on oldmac, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
 - Currently reading Kagurabachi
 
