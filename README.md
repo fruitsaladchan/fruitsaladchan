@@ -6,7 +6,7 @@
 
 - trying out nixos rn
 
-- Running Arch + Hyprland on laptop, Arch + dwm on macbookair, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
+- Running Arch + Hyprland on laptop, Arch + dwm on macbook, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
 - Currently reading Kagurabachi
 
