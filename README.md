@@ -4,7 +4,7 @@
 
 - Studying for my CCNA rn
 
-- trying out nixos rn
+- trying out Nixos
 
 - Running Arch + Hyprland on laptop, Arch + dwm on macbook, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
 
