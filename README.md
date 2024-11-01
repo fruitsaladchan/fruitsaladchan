@@ -6,7 +6,7 @@
 
 - trying out Nixos
 
-- Running Arch + Hyprland on laptop, Arch + dwm on macbook, Windows 10ltsc on main pc, Bsd + Debian + Arch on servers
+- Running Arch + Hyprland on laptop, Arch + dwm on macbook, Windows 10ltsc on main pc, Proxmox on main server, Arch on alt server
 
 - Currently reading Kagurabachi
 
