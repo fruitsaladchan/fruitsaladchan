@@ -14,8 +14,6 @@
 
 - Mostly know python, bash, powershell, docker & some other stuff.
 
-[![My Skills](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +28,8 @@
 <a href="https://endeavouros.com/" target="_blank">
     <img src="https://github.com/Alexis12119/Alexis12119/assets/74944536/3f3c056a-4e75-43ba-94b9-d039b43db3eb" alt="Endeavour" width="50" height="50"/>
 </a>
+
+[![](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
 
 
