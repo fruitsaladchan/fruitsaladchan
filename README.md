@@ -6,8 +6,6 @@
 
 - Studying for my CCNA
 
-- Trying out **Nixos**
-
 - Running Arch + Hyprland on laptop, Arch + dwm on macbook, Windows 10ltsc on main pc, Proxmox on main server, Arch on alt server
 
 - Currently reading Kagurabachi
