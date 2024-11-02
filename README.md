@@ -34,11 +34,10 @@
  <img align="center" alt="Arch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="50" height="50" />
 </a>
 
+<a href="https://www.microsoft.com/en-ca/software-download/windows10">
+ <img align="center" alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50" />
+</a>
 
-
-
-
-[![](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
 <h3 align="left">Links and stuff</h3>
 <p align="left">
