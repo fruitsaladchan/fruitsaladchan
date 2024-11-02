@@ -23,15 +23,6 @@
  <a href="https://github.com/neovim/neovim" target="_blank">
 <img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png" alt="Neovim" height="50" width="50" /></a>
 
- <a href="https://www.vim.org/download.php" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/74944536/213898283-e32c4b73-ce56-4f0f-b22c-df6e164bac45.png" alt="Vim" height="40" width="40" /></a>
- 
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/74944536/230710787-93a0689e-016a-43ae-b837-652538cb6b9d.png" alt="Visual Studio" height="40" width="40" /></a>
- 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/74944536/230710851-876d8289-37bd-4d24-9e37-f71568721e00.png" alt="Visual Studio Code" height="40" width="40" /></a>
-
  <a href="https://brave.com/download/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/74944536/213898413-22227d2d-50a4-484a-95bc-ba2eb76a34c6.png" alt="Brave" height="50" width="50" /></a>
  
@@ -43,9 +34,6 @@
  <img align="center" alt="Arch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="50" height="50" />
 </a>
 
-<a href="https://archlinux.org/">
- <img align="center" alt="Firefox" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg" width="50" height="50" />
-</a>
 
 
 
