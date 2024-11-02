@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://archlinux.org/">
- <img align="center" alt="Firefox" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" width="50" height="50" />
+ <img align="center" alt="Firefox" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg" width="50" height="50" />
 </a>
 
 
