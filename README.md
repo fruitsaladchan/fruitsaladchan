@@ -42,6 +42,11 @@
  <img align="center" alt="Windows" src="https://logolist.net/wp-content/uploads/2024/04/favicon.svg" width="50" height="50" />
 </a>
 
+<a href="https://www.microsoft.com/en-ca/software-download/windows10">
+ <img align="center" alt="Windows" src="https://www.svgrepo.com/show/330334/dwm.svg" width="50" height="50" />
+</a>
+
+
 <h3 align="left">Links and stuff</h3>
 <p align="left">
  <a href="https://soundcloud.com/fruit-salad-162533379/likes" target="_blank"><img align="center" src="assets/soundcloud.png" alt="Reddit" height="40" width="40" /></a>
