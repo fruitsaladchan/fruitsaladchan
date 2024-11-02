@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://dwm.suckless.org/">
- <img align="center" alt="dwm" src="https://www.svgrepo.com/show/330334/dwm.svg" width="50" height="50" />
+ <img align="center" alt="dwm" src="https://www.svgrepo.com/show/330334/dwm.svg" width="60" height="60" />
 </a>
 
 <a href="https://www.proxmox.com/en/">
