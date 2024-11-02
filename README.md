@@ -39,6 +39,12 @@
     <img align="center" alt="Alacritty" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" width="50" height="50" />
 </a>
 
+<a href="https://archlinux.org/">
+ <img align="center" alt="Alacritty" src="ttps://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="50" height="50" />
+</a>
+
+
+
 [![](https://skillicons.dev/icons?i=arch,python,bash,neovim,linux,powershell,windows,docker)](https://skillicons.dev)
 
 <h3 align="left">Links and stuff</h3>
