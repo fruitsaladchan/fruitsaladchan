@@ -38,6 +38,11 @@
  <img align="center" alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50" />
 </a>
 
+https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg
+
+<a href="https://www.microsoft.com/en-ca/software-download/windows10">
+ <img align="center" alt="Windows" src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" width="50" height="50" />
+</a>
 
 <h3 align="left">Links and stuff</h3>
 <p align="left">
