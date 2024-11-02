@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://archlinux.org/">
- <img align="center" alt="Alacritty" src="ttps://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="50" height="50" />
+ <img align="center" alt="Arch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="50" height="50" />
 </a>
 
 
