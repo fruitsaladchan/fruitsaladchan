@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi </h1>
 
 - I play touhou and post stuff here sometimes
