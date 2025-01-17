@@ -6,7 +6,7 @@
 
 - Running Arch + Hyprland on laptop, Arch + dwm on macbook, Windows 10ltsc on main pc, Proxmox on main server, bsd on 2nd server lol
 
-- Currently reading Kagurabachi
+- Currently reading Kagurabachi and opm
 
 </p>
 
