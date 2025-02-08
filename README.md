@@ -1,12 +1,12 @@
 <h1 align="center">Hi </h1>
 
-- I play touhou and post stuff here sometimes
-
-- Studying for my CCNA
+- online im stupid but irl im stupid
+ 
+- Studying for CCNA
 
 - Running Arch + Hyprland on laptop, Windows 10ltsc on main pc, Proxmox on main server
 
-- Currently reading Kagurabachi and opm
+- Reading Kagurabachi and opm rn
 
 </p>
 
