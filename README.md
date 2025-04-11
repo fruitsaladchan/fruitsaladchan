@@ -4,9 +4,7 @@
  
 - Studying for CCNA
 
-- Running Arch + Hyprland on laptop, Windows 10ltsc on main pc, Proxmox on main server
-
-- Reading Kagurabachi and opm rn
+- Running nixos + Hyprland on laptop, Windows 10ltsc on pc, Proxmox on server
 
 </p>
 
