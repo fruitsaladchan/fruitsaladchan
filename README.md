@@ -4,7 +4,7 @@
  
 - Studying for CCNA
 
-- Running nixos + Hyprland on laptop, Windows 10ltsc on pc, Proxmox on server
+- Running arch + Hyprland on laptop, Windows 10ltsc on pc, Proxmox on server
 
 </p>
 
