@@ -2,9 +2,9 @@
 
 - online im stupid but irl im stupid
  
-- Studying for CCNA
+- learning c + networking
 
-- Running arch + Hyprland on laptop, Windows 10ltsc on pc, Proxmox on server
+- Running artix + dwm on laptop, freebsd on homeserver
 
 </p>
 
