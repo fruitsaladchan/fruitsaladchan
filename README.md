@@ -1,9 +1,7 @@
 <h1 align="center">Hi </h1>
 
 - online im stupid but irl im stupid
- 
-- learning c + networking
-
+- learning c 
 - Running artix + dwm on laptop, freebsd on homeserver
 
 </p>
